@@ -17,4 +17,11 @@ Custom Visualizations: Create Python-based visuals directly in reports, using pl
 Prerequisites include installing Python (official distribution recommended), enabling scripting in Power BI, and installing required libraries like pandas and matplotlib. 
  Limitations to consider: Scripts timeout after 30 minutes for transformations or 5 minutes for visuals; data for visuals is capped at 150,000 rows; and only pandas dataframes are importable. 
  Best practices involve testing scripts externally first, using full paths for directories, and adding index fields to avoid automatic grouping in visuals.
+ #OUTPUT
+ <img width="1411" height="754" alt="Image" src="https://github.com/user-attachments/assets/0e4c2f04-e242-45c0-b959-bf42166446e0" />
+<img width="1400" height="802" alt="Image" src="https://github.com/user-attachments/assets/c57d7ea9-995d-4d9e-9b49-3e1e32126b44" />
+<img width="1251" height="682" alt="Image" src="https://github.com/user-attachments/assets/f579b8b5-266b-4178-9327-a1430591a570" />
+
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/6dc18bdd-e574-4bde-b23c-3b20cd3cc68e" />
+<img width="1853" height="778" alt="Image" src="https://github.com/user-attachments/assets/02e95c99-fffc-4039-b2d9-c0b9dd7f5dde" />
 
